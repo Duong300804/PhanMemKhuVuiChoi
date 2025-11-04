@@ -45,7 +45,7 @@ Giao diện được xây dựng bằng Java Swing, thân thiện và dễ sử 
 
 !Trang biểu đồ doanh thu
 
-<img width="1259" height="944" alt="Image" src="https://github.com/user-attachments/assets/3e7d58c7-7648-46e7-b112-c8389c80fd65" />
+<img width="1264" height="951" alt="Image" src="https://github.com/user-attachments/assets/f7695f49-2052-4411-8150-c19e2bc9af31" />
 
 !Trang quản lý tài khoản
 
